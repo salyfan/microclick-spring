@@ -6,7 +6,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.microclick</groupId>
   <artifactId>microclick-parent</artifactId>
-  <version>2.7.0</version>
+  <version>1.0.0</version>
   <packaging>pom</packaging>
   <name>microclick JAVA SPRING - Parent</name>
   <description>JAVA SSM REDIS MYSQL 学习上级POM</description>
